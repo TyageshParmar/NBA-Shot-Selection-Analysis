@@ -1,4 +1,4 @@
-# 🏀 NBA Shot Selection Analysis - Kobe Bryant (PRCP-1008)
+# 🏀 NBA Shot Selection Analysis(PRCP-1008)
 
 This project analyzes Kobe Bryant’s historical shot data to understand shot success factors and build a predictive model that can estimate whether a shot will be made. The project involves data cleaning, exploratory analysis, feature engineering, and multiple classification models evaluated for accuracy and F1-score.
 
